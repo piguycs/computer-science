@@ -90,10 +90,10 @@ just remember that you can't purchase success!
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
 - [Prerequisites](#prerequisites)
-- [Intro CS](#intro-cs)
+- [Intro CS](#intro-cs) ✅
   - [Introduction to Programming](#introduction-to-programming)
   - [Introduction to Computer Science](#introduction-to-computer-science)
-- [Core CS](#core-cs)
+- [Core CS](#core-cs) ✅
   - [Core programming](#core-programming)
   - [Core math](#core-math)
   - [CS Tools](#cs-tools)
@@ -119,7 +119,7 @@ just remember that you can't purchase success!
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
-## Intro CS
+## Intro CS ✅
 
 ### Introduction to Programming
 
@@ -147,7 +147,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
 
-## Core CS
+## Core CS ✅
 
 All coursework under Core CS is **required**, unless otherwise indicated.
 
